@@ -1,0 +1,5 @@
+# http://127.0.0.1:9000/?ns=rent-a-home-here/-NF27g1nD66KG3E5Jnas.json
+
+# https://rent-a-home-here-default-rtdb.firebaseio.com/apartments.json 
+
+http://localhost:8000/v1/apartments/
